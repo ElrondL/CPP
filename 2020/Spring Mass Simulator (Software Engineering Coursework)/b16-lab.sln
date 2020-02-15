@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "springmass", "support\springmass\springmass.vcxproj", "{7DAA6C58-B623-44DE-B469-F172832C64D1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ball-graphics", "support\ball-graphics\ball-graphics.vcxproj", "{4DCE3E2C-7D16-427A-A390-C45F722566CA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "springmass-graphics", "support\springmass-graphics\springmass-graphics.vcxproj", "{47EDE40A-63BA-400D-8147-3AF6E787642E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ball", "support\ball\ball.vcxproj", "{D8EB4A88-888F-4006-BDCC-E6E0742DC16E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DAA6C58-B623-44DE-B469-F172832C64D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7DAA6C58-B623-44DE-B469-F172832C64D1}.Debug|Win32.Build.0 = Debug|Win32
+		{7DAA6C58-B623-44DE-B469-F172832C64D1}.Release|Win32.ActiveCfg = Release|Win32
+		{7DAA6C58-B623-44DE-B469-F172832C64D1}.Release|Win32.Build.0 = Release|Win32
+		{4DCE3E2C-7D16-427A-A390-C45F722566CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4DCE3E2C-7D16-427A-A390-C45F722566CA}.Debug|Win32.Build.0 = Debug|Win32
+		{4DCE3E2C-7D16-427A-A390-C45F722566CA}.Release|Win32.ActiveCfg = Release|Win32
+		{4DCE3E2C-7D16-427A-A390-C45F722566CA}.Release|Win32.Build.0 = Release|Win32
+		{47EDE40A-63BA-400D-8147-3AF6E787642E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47EDE40A-63BA-400D-8147-3AF6E787642E}.Debug|Win32.Build.0 = Debug|Win32
+		{47EDE40A-63BA-400D-8147-3AF6E787642E}.Release|Win32.ActiveCfg = Release|Win32
+		{47EDE40A-63BA-400D-8147-3AF6E787642E}.Release|Win32.Build.0 = Release|Win32
+		{D8EB4A88-888F-4006-BDCC-E6E0742DC16E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8EB4A88-888F-4006-BDCC-E6E0742DC16E}.Debug|Win32.Build.0 = Debug|Win32
+		{D8EB4A88-888F-4006-BDCC-E6E0742DC16E}.Release|Win32.ActiveCfg = Release|Win32
+		{D8EB4A88-888F-4006-BDCC-E6E0742DC16E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
